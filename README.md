@@ -6,3 +6,17 @@ option 1 is for a registered user and option 2 is for those who want to register
 If a person is already registered, he/she will be prompted to scan thier fingerprint
 and if the finger print is found then they will be asked to scan their face
 and an otp will be generated 
+
+
+LIBRARIES TO BE INMSTALLED
+
+1.ARDUINO
+Adafruit fingerprint 
+LiquidCrystal I2C
+Servo
+Keypad
+
+2.PYTHON
+pyserial
+firebase admin
+face-recognition
